@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://isakura:789456123@devconnector-jywit.mongodb.net/test?retryWrites=true&w=majority",
+  "jwt_secret": "academy"
+}
