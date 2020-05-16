@@ -1,7 +1,7 @@
 const express = require('express')
 const connectDB = require("./config/db.js");
 const app = express()
-// Connect database
+// Соединяемся с приложением    
 connectDB()
 
 //Init Miidlewaire
